@@ -1,10 +1,4 @@
-/*
 
-Vanilla Template
-
-https://templatemo.com/tm-526-vanilla
-
-*/
 p {
 	font-size: 15px;
 	line-height: 25px;
@@ -248,7 +242,7 @@ h4, .h4 {
 	margin: 20px auto 15px auto;
 }
 
-.projects-content {
+/*. projects-content {
 	padding-top: 20vh;
 	background-image: url(../img/3rd-section.jpg);
 }
@@ -298,7 +292,7 @@ h4, .h4 {
 	border-radius: 20px;
 	background: #fff;
 }
-
+ */
 .tabs-content {
 	padding-left: 15px;
 	padding-right: 15px;
@@ -367,7 +361,7 @@ section {
 	clear: both;
 }
 
-.contact-content {
+/* .contact-content {
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-top: 16vh;
@@ -430,7 +424,7 @@ section {
 	width: 100%;
 	background-color: rgba(0, 0, 0, 0.5);
 	padding: 30px 20px;
-}
+} */
 
 footer {
 	text-align: center;
